@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Aten Support",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "clutterjo",
+    "githubRepository": "reveal-generated"
+  }
+}
