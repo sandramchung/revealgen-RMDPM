@@ -2,9 +2,16 @@
     "old-dogs-new-tricks-supporting-websites-after-launch.html",
     "joe-crespo-technical-account-manager.html",
     "logo.html",
+<<<<<<< HEAD
+    "our-clients.html",
+    "lifecycle-1.1.html",
+    "lifecycle-1.2.html",
+    "casestudy-1.0.html",
+=======
     "non-profit-clients.html",
     [
-        "why-support-0.html",
+        "lifecycle-1.1.html",
+        "lifecycle-1.2.html",
         "why-support.html",
         "websites-are-never-done.html"
     ],
@@ -26,7 +33,7 @@
         "communication.html"
     ],
     "impact.html",
-    "casestudy-1.0.html",
+>>>>>>> d02ef6d6a9a49c28e6adc7188c264cdddc5daf0d
     "casestudy-1.1-wri-intro.html",
     "casestudy-1.2-wri-before.html",
     "casestudy-1.3-wri-before-detail.html",
