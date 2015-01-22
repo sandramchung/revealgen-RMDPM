@@ -146,5 +146,26 @@ body {
 .reveal .slide-number {
   color: #13daec; }
 
+/*************************************************
+TABLES
+**************************************************/
+.reveal table td:first-child, .reveal table th:first-child {
+  padding: .5em;
+  border: none; }
+
+.reveal table td, .reveal table th {
+  text-align: center; }
+
+.reveal table tbody {
+  border-spacing: none;
+  border-collapse: collapse !important; }
+
+.reveal table tbody td {
+  padding: 1em !important;
+  border: 1px solid white; }
+
+h3 {
+  color: #eee; }
+
 .reveal h1 {
   font-size: 2.5em; }
