@@ -146,9 +146,9 @@ body {
 .reveal .slide-number {
   color: #13daec; }
 
-/*************************************************
-TABLES
-**************************************************/
+/*********************************************
+ * TABLES
+ **********************************************/
 .reveal table td:first-child, .reveal table th:first-child {
   padding: .5em;
   border: none; }
@@ -164,8 +164,19 @@ TABLES
   padding: 1em !important;
   border: 1px solid white; }
 
-h3 {
-  color: #eee; }
+/*********************************************
+ * CIRCLES
+ **********************************************/
+.reveal div.circle {
+  border-radius: 50%;
+  float: left;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  box-shadow: inset -20px -20px 30px #333; }
+
+.reveal div.circle p {
+  padding: 30px; }
 
 .reveal h1 {
   font-size: 2.5em; }
