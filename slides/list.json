@@ -81,7 +81,12 @@
   ],
   [
     "60-a-word-to-the-developer.html",
-    "60.1-challenges.html",
+    {
+      "filename": "60.1-challenges.html",
+      "attr" : {
+        "data-background": "img/cookie-monster.gif"
+      }
+    },
     "60.2-wrong.html",
     "60.3-awesomeness.html"
   ],
