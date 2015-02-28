@@ -46,9 +46,7 @@
         "data-background": "img/client-list.png",
         "data-transition": "zoom"
       }
-    }
-/*
-     ,
+    },
     {
       "filename": "03.2-office.html",
       "attr": {
@@ -57,7 +55,6 @@
       }
     },
     "03.3-amazing-1.html"
-*/
   ],
   {
     "filename":   "04-hangover.html",
@@ -89,7 +86,6 @@
     "60.3-awesomeness.html"
   ],
   "70-impact.html",
-  "80-casestudy-1.0-intro.html",
   [
     "81-casestudy-1-0.html",
     "81-casestudy-1-1.html",
