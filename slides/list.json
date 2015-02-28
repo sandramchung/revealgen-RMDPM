@@ -20,7 +20,7 @@
       }
     },
     {
-      "filename":   "02-intro.html",
+      "filename":   "02.1-intro.html",
 
       "attr": {
         "data-background": "img/evolution-of-man-bg-2.png"
@@ -41,19 +41,23 @@
       }
     },
     {
-      "filename": "03.2-client-list.html",
+      "filename": "03.1-client-list.html",
       "attr": {
         "data-background": "img/client-list.png",
         "data-transition": "zoom"
       }
-    },
+    }
+/*
+     ,
     {
-      "filename": "03.1-office.html",
+      "filename": "03.2-office.html",
       "attr": {
         "data-background": "img/office.gif",
         "data-transition": "zoom"
       }
-    }
+    },
+    "03.3-amazing-1.html"
+*/
   ],
   {
     "filename":   "04-hangover.html",
@@ -66,7 +70,7 @@
     "20-agency.html",
     "20.1-challenges.html",
     "20.2-guesstimation-and-billing.html",
-    "20.3-fixed-fee-vs-time-and-materials.html",
+    "20.3-fixed-fee.html",
     "20.4-time-and-materials.html",
     "20.5-retainers-and-sprints.html",
     "20.6-communication.html"
@@ -74,9 +78,15 @@
   [
     "50-client.html",
     "50.1-keeping-the-site-relevant.html",
-    "50.2-flexible-responsive-development-capacity.html",
-    "50.3-consulting-assistance.html",
+    "50.2-consulting-assistance.html",
+    "50.3-flexible-responsive-development-capacity.html",
     "50.4-communication.html"
+  ],
+  [
+    "60-a-word-to-the-developer.html",
+    "60.1-challenges.html",
+    "60.2-wrong.html",
+    "60.3-awesomeness.html"
   ],
   "70-impact.html",
   "80-casestudy-1.0-intro.html",
