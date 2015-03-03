@@ -5,28 +5,12 @@
       "data-background": "img/rocket-launch.png"
     }
   },
-  [
-    {
-      "filename": "01-joe-crespo-technical-account-manager.html",
-      "attr": {
+  {
+      "filename": "01-sandra-chung-tam.html",
+    "attr": {
         "data-background": "img/twitter-logo.png"
-      }
-    },
-    {
-      "filename":   "02-intro.html",
-
-      "attr": {
-        "data-background": "img/evolution-of-man-bg.png"
-      }
-    },
-    {
-      "filename":   "02.1-intro.html",
-
-      "attr": {
-        "data-background": "img/evolution-of-man-bg-2.png"
-      }
     }
-  ],
+  },
   [
     {
       "filename":     "03.0-logo.html",
@@ -46,15 +30,7 @@
         "data-background": "img/client-list.png",
         "data-transition": "zoom"
       }
-    },
-    {
-      "filename": "03.2-office.html",
-      "attr": {
-        "data-background": "img/office.gif",
-        "data-transition": "zoom"
-      }
-    },
-    "03.3-amazing-1.html"
+    }
   ],
   {
     "filename":   "04-hangover.html",
