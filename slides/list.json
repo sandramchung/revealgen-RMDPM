@@ -30,6 +30,13 @@
                 "data-background": "img/client-list.png",
                 "data-transition": "zoom"
             }
+        },
+        {
+            "filename":"03.2-atenoffice.html",
+            "attr": {
+                "data-background": "img/aten-office.jpg",
+                "data-transition": "zoom"
+            }
         }
     ],
     [
@@ -53,6 +60,7 @@
         "20.3-guesstimation.html",
         "20.4-fixed-fee.html",
         "20.5-time-and-materials.html",
+        "20.55-level-up.html",
         "20.6-project-management.html",
         "20.7-communication.html"
     ],
@@ -65,7 +73,13 @@
           }
       },
       "60.2-wrong.html",
-      "60.3-awesomeness.html"
+      "60.3-awesomeness.html",
+      {
+          "filename": "60.31-fly.html",
+          "attr": {
+              "data-background": "img/hulin-fly.jpg"
+          }
+      }
     ],
     [
         "50-rewards-agencies.html",
