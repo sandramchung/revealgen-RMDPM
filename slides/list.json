@@ -51,27 +51,25 @@
         "20.1-challenges.html",
         "20.2-fluctuation.html",
         "20.3-guesstimation.html",
-        "20.4-time-and-materials.html",
-        "20.5-retainers-and-sprints.html",
-        "20.6-communication.html"
+        "20.4-fixed-fee.html",
+        "20.5-time-and-materials.html",
+        "20.6-project-management.html",
+        "20.7-communication.html"
     ],
     [
-        "50-client.html",
-        "50.1-keeping-the-site-relevant.html",
-        "50.2-consulting-assistance.html",
-        "50.3-flexible-responsive-development-capacity.html",
-        "50.4-communication.html"
+      "60-a-word-to-the-developer.html",
+      {
+          "filename": "60.1-challenges.html",
+          "attr": {
+              "data-background": "img/cookie-monster.gif"
+          }
+      },
+      "60.2-wrong.html",
+      "60.3-awesomeness.html"
     ],
     [
-        "60-a-word-to-the-developer.html",
-        {
-            "filename": "60.1-challenges.html",
-            "attr": {
-                "data-background": "img/cookie-monster.gif"
-            }
-        },
-        "60.2-wrong.html",
-        "60.3-awesomeness.html"
+        "50-rewards-agencies.html",
+        "50.01-rewards-site-owners.html"
     ],
     "70-impact.html",
     [
