@@ -5,12 +5,15 @@
             "data-background": "img/rocket-launch.png"
         }
     },
-    {
-        "filename": "01-sandra-chung-tam.html",
-        "attr": {
-            "data-background": "img/twitter-logo.png"
-        }
-    },
+    [
+      {
+          "filename": "01-sandra-chung-tam.html",
+          "attr": {
+              "data-background": "img/twitter-logo.png"
+          }
+      },
+      "01.1-career-path.html"   
+    ],
     [
         {
             "filename": "03.0-logo.html",
